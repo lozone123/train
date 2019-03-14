@@ -1,0 +1,1 @@
+{ "msg": "This app has new version,do you want to update it now?", "ver": "2.7","source":"link","action":"update" }
