@@ -1,1 +1,1 @@
-{ "msg": "This app has new version,do you want to update it now? If you have update problem,please contact us.", "ver": "4.1","source":"playstore","action":"update","downloadurl":"https://github.com/lozone123/train/raw/master/chinatrainassistant.apk"}
+{ "msg": "This app has new version,do you want to update it now? If you have update problem,please contact us.", "ver": "4.2","source":"playstore","action":"update","downloadurl":"https://github.com/lozone123/train/raw/master/chinatrainassistant.apk"}
